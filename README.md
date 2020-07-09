@@ -13,7 +13,7 @@ Update July 2020
   4. Run jupyter notebook cells one by one
   5. Finally you will able to run demo.py
   
-  >> rezult will save in /content/SSH/data/demo/demo_detections_SSH.png
+    >> rezult will save in /content/SSH/data/demo/demo_detections_SSH.png
   
   <img src = "demo_detections_SSH.png" alt = "demo_detections_SSH"  height = "500">
   
