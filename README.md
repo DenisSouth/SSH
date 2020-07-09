@@ -1,5 +1,5 @@
 ### SSH: Single Stage Headless Face Detector
-Jupyter Notebook fof https://github.com/mahyarnajibi/SSH
+Jupyter Notebook for https://github.com/mahyarnajibi/SSH
 
 ### Simple guide to run demo.py
 
