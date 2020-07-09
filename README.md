@@ -15,14 +15,11 @@ Update July 2020
   
   >> rezult will save in /content/SSH/data/demo/demo_detections_SSH.png
   
+  <img src = "demo_detections_SSH.png" alt = "demo_detections_SSH"  height = "500">
+  
   
 
-
-
 This repository includes the code for training and evaluating the *SSH* face detector introduced in our [**ICCV 2017 paper**](https://arxiv.org/abs/1708.03979).
-
-![alt text](http://legacydirs.umiacs.umd.edu/~najibi/github_readme_files/ssh_detections.jpg "SSH detection samples")
-The code is adapted based on an intial fork from the py-faster-rcnn repository.
 
 ### Citing
 If you find *SSH* useful in your research please consider citing:
