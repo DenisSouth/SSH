@@ -11,7 +11,7 @@ Update July 2020
   2. Open my jupyter notebook [caffe_ssh.ipynb](caffe_ssh.ipynb)
   3. Then open "Runtime"/ "Change runtime type" and select Python 2 and GPU 
   4. Run jupyter notebook cells one by one
-  5. Finally you will able to run demo.py
+  5. Finally you will able to run demo.py and will see following picture
   
     >> rezult will save in /content/SSH/data/demo/demo_detections_SSH.png
   
