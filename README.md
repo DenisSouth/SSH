@@ -17,7 +17,7 @@ Update July 2020
   
   <img src = "demo_detections_SSH.png" alt = "demo_detections_SSH"  height = "500">
  
-[SSH](https://github.com/mahyarnajibi/SSH) repository includes the code for training and evaluating the *SSH* face detector introduced in our [**ICCV 2017 paper**](https://arxiv.org/abs/1708.03979).[]
+[SSH](https://github.com/mahyarnajibi/SSH) repository includes the code for training and evaluating the *SSH* face detector introduced in our [**ICCV 2017 paper**](https://arxiv.org/abs/1708.03979).
 
 
 License for that notebook is MIT
